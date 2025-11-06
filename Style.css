@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(32, 222, 255, 0.473);
+    text-align: center;
+    margin:0;
+    padding: 0;
+}
+header { background-color:rgb(234, 229, 238)}
+button {
+    background-color:rgb(211, 165, 253);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 7px;
+}
